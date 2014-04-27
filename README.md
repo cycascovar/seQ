@@ -35,45 +35,6 @@ Within the download you'll find the following directories (and files), logically
 ├───graphics
 ├───info
 ├───old
-│   ├───+More
-│   │   ├───bootstrap.slate
-│   │   │   └───assets
-│   │   ├───securityLevel
-│   │   │   └───assets
-│   │   │       ├───css
-│   │   │       ├───img
-│   │   │       └───js
-│   │   ├───v1(ready)
-│   │   │   └───public
-│   │   │       └───seq
-│   │   ├───v2 (beta)
-│   │   │   ├───app
-│   │   │   ├───css
-│   │   │   ├───font
-│   │   │   ├───images
-│   │   │   ├───js
-│   │   │   └───_trash
-│   │   ├───v2.1 (imaco)
-│   │   ├───v2.3
-│   │   │   └───seq
-│   │   │       └───selector
-│   │   └───v3.0 (partners)
-│   │       ├───assets
-│   │       ├───fonts
-│   │       └───selector
-│   ├───v3.0 (public)
-│   │   ├───assets
-│   │   ├───fonts
-│   │   └───selector
-│   ├───v3.0 (test)
-│   │   └───test
-│   │       ├───jquery.clipboard-master
-│   │       │   └───jquery.clipboard-master
-│   │       └───jquery.zclip.1.1.1
-│   └───v3.0 (trash)
-│       └───bootstrap
-│           ├───css
-│           └───fonts
 └───public
     └───assets
         ├───app
@@ -86,7 +47,6 @@ Within the download you'll find the following directories (and files), logically
         │   ├───jquery
         │   └───jquery-frame
         └───runjs
-
 ```
 
 Sometimes is compiled CSS and JS (`file.*`), as well as compiled and minified CSS and JS (`file.min.*`).
