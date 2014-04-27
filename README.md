@@ -49,16 +49,13 @@ Within the download you'll find the following directories (and files), logically
         └───runjs
 ```
 
-Sometimes is compiled CSS and JS (`file.*`), as well as compiled and minified CSS and JS (`file.min.*`).
+Sometimes is compiled and minified CSS and JS (`file.min.*`).
 
 ## Documentation
 
-Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](http://jekyllrb.com) and publicly hosted on GitHub Pages at <http://getbootstrap.com>. The docs may also be run locally.
-
-
+This is a Bootstrap based project. Bootstrap's documentation, is publicly hosted on GitHub Pages at <http://getbootstrap.com>.
 
 ## Branches
-
 
   * **Master:** *Production* app
   * **Beta:** *Beta* release 
@@ -93,7 +90,7 @@ I'm available for freelance work. Remote worldwide or locally around Guadalajara
 
 #### Only ADL
 
-Local Workind Dir
+Local Working Dir
 ```
 :/xampp/htdocs/1/ADL/seq
 ```
