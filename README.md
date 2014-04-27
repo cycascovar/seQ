@@ -29,7 +29,7 @@ Quick start options are available:
 
 ### What's included
 
-Within the download you'll find the following directories and files, logically grouping common assets. You'll see something like this:
+Within the download you'll find the following directories (and files), logically grouping common assets. You'll see something like this:
 
 ```
 ├───graphics
@@ -89,7 +89,7 @@ Within the download you'll find the following directories and files, logically g
 
 ```
 
-We provide compiled CSS and JS (`file.*`), as well as compiled and minified CSS and JS (`file.min.*`). Fonts from Glyphicons are included, as is the optional Bootstrap theme.
+Sometimes is compiled CSS and JS (`file.*`), as well as compiled and minified CSS and JS (`file.min.*`).
 
 ## Documentation
 
@@ -136,7 +136,6 @@ I'm available for freelance work. Remote worldwide or locally around Guadalajara
 Local Workind Dir
 ```
 :/xampp/htdocs/1/ADL/seq
-
 ```
 ## Copyright and license
 
