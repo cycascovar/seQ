@@ -1,0 +1,17 @@
+        li.purchase a {
+          padding-top: 5px;
+          background-position: 0px -4px;
+        }
+        
+        li.remove_frame a {
+          padding-top: 5px;
+          background-position: 0px -3px;
+        }
+        
+        #theme_select {
+          padding: 8px 8px;
+        }
+        
+        #theme_list {
+          margin-top: 2px;
+        }

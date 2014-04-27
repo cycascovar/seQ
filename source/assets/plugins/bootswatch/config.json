@@ -1,0 +1,8 @@
+{
+  "vars": {},
+  "css": [
+    "glyphicons.less",
+    "close.less"
+  ],
+  "js": []
+}
