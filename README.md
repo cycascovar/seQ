@@ -1,8 +1,7 @@
 ![php-login introduction & quickstart placeholder picture](info/placeholder.png)
+
 # seQ
-
-*ADL NETWORKS Security App*
-
+ADL NETWORKS Security App
 
 ## Table of contents
 
@@ -13,8 +12,9 @@
  - [Branches](#branches)
  - [Versioning](#versioning)
  - [Author](#author)
- - [Copyright and licence](#copyright-and-licence)
  - [Only ADL] (#only-adl)
+ - [Copyright and licence](#copyright-and-licence)
+
 
 ## Setup
 
@@ -32,18 +32,60 @@ Quick start options are available:
 Within the download you'll find the following directories and files, logically grouping common assets. You'll see something like this:
 
 ```
-  ├── old/           -> Old releses (not neccesary)           
-  ├── graphics/      -> Vector & ready to use graphics (not neccesary)
-  ├── assets/         -> App resources
-  │   ├── app/        -> Model.Js
-  │   ├── css/        -> Custom CSS
-  │   ├── fonts/      -> Fonts
-  │   ├── img/        -> Images
-  │   ├── js/         -> Custom JavaScript
-  │   ├── plugins/    -> Required libraries & Plugins
-  │   └── runjs/      -> Onload.Js
-  ├── index.html      -> Redirector
-  └── seq-main.html   -> Main view
+├───graphics
+├───info
+├───old
+│   ├───+More
+│   │   ├───bootstrap.slate
+│   │   │   └───assets
+│   │   ├───securityLevel
+│   │   │   └───assets
+│   │   │       ├───css
+│   │   │       ├───img
+│   │   │       └───js
+│   │   ├───v1(ready)
+│   │   │   └───public
+│   │   │       └───seq
+│   │   ├───v2 (beta)
+│   │   │   ├───app
+│   │   │   ├───css
+│   │   │   ├───font
+│   │   │   ├───images
+│   │   │   ├───js
+│   │   │   └───_trash
+│   │   ├───v2.1 (imaco)
+│   │   ├───v2.3
+│   │   │   └───seq
+│   │   │       └───selector
+│   │   └───v3.0 (partners)
+│   │       ├───assets
+│   │       ├───fonts
+│   │       └───selector
+│   ├───v3.0 (public)
+│   │   ├───assets
+│   │   ├───fonts
+│   │   └───selector
+│   ├───v3.0 (test)
+│   │   └───test
+│   │       ├───jquery.clipboard-master
+│   │       │   └───jquery.clipboard-master
+│   │       └───jquery.zclip.1.1.1
+│   └───v3.0 (trash)
+│       └───bootstrap
+│           ├───css
+│           └───fonts
+└───public
+    └───assets
+        ├───app
+        ├───css
+        ├───fonts
+        ├───img
+        ├───js
+        ├───plugins
+        │   ├───bootswatch
+        │   ├───jquery
+        │   └───jquery-frame
+        └───runjs
 
 ```
 
@@ -89,7 +131,7 @@ For more information on SemVer, please visit <http://semver.org/>.
 
 I'm available for freelance work. Remote worldwide or locally around Guadalajara, Mexico & Monterrey. Mail me if you like: contacto@adalbertovargas.com
 
-## Only ADL
+#### Only ADL
 
 Local Workind Dir
 ```
