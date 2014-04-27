@@ -1,4 +1,4 @@
-![php-login introduction & quickstart placeholder picture](_info/placeholder.png)
+![php-login introduction & quickstart placeholder picture](info/placeholder.png)
 # seQ
 
 *ADL NETWORKS Security App*
@@ -32,8 +32,8 @@ Quick start options are available:
 Within the download you'll find the following directories and files, logically grouping common assets. You'll see something like this:
 
 ```
-  ├── _old/           -> Old releses (not neccesary)           
-  ├── _graphics/      -> Vector & ready to use graphics (not neccesary)
+  ├── old/           -> Old releses (not neccesary)           
+  ├── graphics/      -> Vector & ready to use graphics (not neccesary)
   ├── assets/         -> App resources
   │   ├── app/        -> Model.Js
   │   ├── css/        -> Custom CSS
