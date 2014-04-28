@@ -5,10 +5,10 @@ ADL NETWORKS Security App
 
 ## Table of contents
 
- - [Preview](#Preview)
+ - [Preview](#preview)
  - [Setup](#setup)
  - [Requirements](#requirements)
- - [What's included](#What's-included)
+ - [What's included](#what's-included)
  - [Documentation](#documentation) 
  - [Branches](#branches)
  - [Versioning](#versioning)
