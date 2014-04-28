@@ -1,4 +1,4 @@
-![introduction & quickstart placeholder picture](info/placeholder.png)
+![introduction & quickstart placeholder picture](img/preview/placeholder.png)
 
 # seQ
 ADL NETWORKS Security App
@@ -19,7 +19,7 @@ ADL NETWORKS Security App
 ## Preview
 
 You can also find these preview ScrenShots  *preview* folder
-![preview capture 01](preview/capture-01.jpg)
+![preview capture 01](img/preview/capture-01.jpg)
 
 ## Setup
 
@@ -37,10 +37,10 @@ Quick start options are available:
 Within the download you'll find the following directories (and files), logically grouping common assets. You'll see something like this:
 
 ```
-├───graphics
-├───info
+├───img
+│   ├───graphics-src
+│   └───preview
 ├───old
-├───preview
 └───public-app
     └───assets
         ├───app
