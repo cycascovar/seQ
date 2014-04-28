@@ -8,12 +8,12 @@ ADL NETWORKS Security App
  - [Preview](#preview)
  - [Setup](#setup)
  - [Requirements](#requirements)
- - [What's included](#what's-included)
+ - [The content](#the-content)
  - [Documentation](#documentation) 
  - [Branches](#branches)
  - [Versioning](#versioning)
  - [Author](#author)
- - [Only ADL] (#only-adl)
+ - [Just for ADL] (#just-for-adl)
  - [Copyright and licence](#copyright-and-licence)
 
 ## Preview
@@ -32,7 +32,7 @@ Quick start options are available:
 
 * **Modern Browser**: a modern browser (like Chrome) is required to run
 
-### What's included
+## The content
 
 Within the download you'll find the following directories (and files), logically grouping common assets. You'll see something like this:
 
@@ -91,9 +91,9 @@ For more information on SemVer, please visit <http://semver.org/>.
 
 ### Hire me
 
-I'm available for freelance work. Remote worldwide or locally around Guadalajara, Mexico & Monterrey. Mail me if you like: contacto@adalbertovargas.com
+I'm available for freelance work. Remote worldwide or locally around Guadalajara, Mexico & Monterrey. Mail me: contacto@adalbertovargas.com
 
-#### Only ADL
+#### Just For ADL
 
 Local Working Dir
 ```
