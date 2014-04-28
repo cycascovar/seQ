@@ -1,20 +1,25 @@
-![php-login introduction & quickstart placeholder picture](info/placeholder.png)
+![introduction & quickstart placeholder picture](info/placeholder.png)
 
 # seQ
 ADL NETWORKS Security App
 
 ## Table of contents
 
+ - [Preview](#Preview)
  - [Setup](#setup)
  - [Requirements](#requirements)
- - [Documentation](#documentation)
  - [What's included](#What's-included)
+ - [Documentation](#documentation) 
  - [Branches](#branches)
  - [Versioning](#versioning)
  - [Author](#author)
  - [Only ADL] (#only-adl)
  - [Copyright and licence](#copyright-and-licence)
 
+## Preview
+
+You can also find these preview ScrenShots  *preview* folder
+![preview capture 01](preview/capture-01.jpg)
 
 ## Setup
 
@@ -35,7 +40,8 @@ Within the download you'll find the following directories (and files), logically
 ├───graphics
 ├───info
 ├───old
-└───public
+├───preview
+└───public-app
     └───assets
         ├───app
         ├───css
@@ -57,13 +63,12 @@ This is a Bootstrap based project. Bootstrap's documentation, is publicly hosted
 
 ## Branches
 
-  * **Master:** *Production* app
-  * **Beta:** *Beta* release 
-  * **Dev:** *Develop* Current working.
+  * **Master:** *Production* release app
+  * **Dev:** *Development* Current working.
 
 ## Versioning
 
-For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under the Semantic Versioning guidelines. Sometimes we screw up, but we'll adhere to these rules whenever possible.
+For transparency into our release cycle and in striving to maintain backward compatibility, this project is maintained under the Semantic Versioning guidelines. 
 
 Releases will be numbered with the following format:
 
